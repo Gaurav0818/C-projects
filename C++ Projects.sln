@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Registration and Login", "Registration and Login\Registration and Login.vcxproj", "{06065ADC-D18F-44A3-845F-D0FA123B5BDD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Super Market Billing System", "Super Market Billing System\Super Market Billing System.vcxproj", "{F55EB1B4-AFF9-49C1-8AF3-ED1FF1CBC9F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{06065ADC-D18F-44A3-845F-D0FA123B5BDD}.Release|x64.Build.0 = Release|x64
 		{06065ADC-D18F-44A3-845F-D0FA123B5BDD}.Release|x86.ActiveCfg = Release|Win32
 		{06065ADC-D18F-44A3-845F-D0FA123B5BDD}.Release|x86.Build.0 = Release|Win32
+		{F55EB1B4-AFF9-49C1-8AF3-ED1FF1CBC9F8}.Debug|x64.ActiveCfg = Debug|x64
+		{F55EB1B4-AFF9-49C1-8AF3-ED1FF1CBC9F8}.Debug|x64.Build.0 = Debug|x64
+		{F55EB1B4-AFF9-49C1-8AF3-ED1FF1CBC9F8}.Debug|x86.ActiveCfg = Debug|Win32
+		{F55EB1B4-AFF9-49C1-8AF3-ED1FF1CBC9F8}.Debug|x86.Build.0 = Debug|Win32
+		{F55EB1B4-AFF9-49C1-8AF3-ED1FF1CBC9F8}.Release|x64.ActiveCfg = Release|x64
+		{F55EB1B4-AFF9-49C1-8AF3-ED1FF1CBC9F8}.Release|x64.Build.0 = Release|x64
+		{F55EB1B4-AFF9-49C1-8AF3-ED1FF1CBC9F8}.Release|x86.ActiveCfg = Release|Win32
+		{F55EB1B4-AFF9-49C1-8AF3-ED1FF1CBC9F8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
